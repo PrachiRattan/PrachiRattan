@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm PrachiRattan</h1>
 <h3 align="center">I passionate Web Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://my-updated-portfolio-zeta.vercel.app/](https://my-updated-portfolio-zeta.vercel.app/)
 
 - 📫 How to reach me **prachirattan07@gmail.com**
 
